@@ -1,0 +1,27 @@
+{
+  "name": "shashimantra",
+  "version": "1.0.0",
+  "description": "Quiz App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandraj-y/ShashiMantra.git"
+  },
+  "keywords": [
+    "A",
+    "project",
+    "to",
+    "play",
+    "online",
+    "quiz"
+  ],
+  "author": "Anand Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandraj-y/ShashiMantra/issues"
+  },
+  "homepage": "https://github.com/anandraj-y/ShashiMantra#readme"
+}
